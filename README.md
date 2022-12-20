@@ -6,6 +6,8 @@
 
 🤓 Ciências Biomédicas | Análise de dados | Bioinformática | SQL | Python | R | Lookerstudio  
 
+📩 ailafelixa@gmail.com
+
 
 <!---
 ailafelixa/ailafelixa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
