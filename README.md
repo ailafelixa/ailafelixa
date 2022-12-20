@@ -6,6 +6,8 @@
 
 🤓 Ciências Biomédicas | Análise de dados | Bioinformática | SQL | Python | R | Lookerstudio  
 
+📚 Gosto de estudar sobre negócios e marketing
+
 📩 ailafelixa@gmail.com
 
 
