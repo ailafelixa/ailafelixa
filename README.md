@@ -1,6 +1,6 @@
 <h1> Olá, eu sou a @ailafelixa, mas pode me chamar de Aila 👋 </h1> 
 
-🚀 Meu objetivo é aliar saúde e tecnologia para ajudar a melhorar a qualidade de vida das pessoas no Brasil e no mundo
+🚀 Meu objetivo é aliar conhecimento de saúde e tecnologia para ajudar a melhorar a qualidade de vida das pessoas no Brasil e no mundo
 
 👩🏾‍💻 Atualmente trabalho como Analista de Dados Jr. 
 
