@@ -2,11 +2,9 @@
 
 🚀 Meu objetivo é aliar conhecimento de saúde e tecnologia para ajudar a melhorar a qualidade de vida das pessoas no Brasil e no mundo
 
-👩🏾‍💻 Atualmente trabalho como Analista de Dados Jr. 
+👩🏾‍💻 Clinical Plan & Analytics Coord. na IQVIA
 
-🤓 Ciências Biomédicas | Análise de dados | Bioinformática | SQL | Python | R | Lookerstudio  
-
-📚 Gosto de estudar sobre negócios e marketing
+🤓 Saúde | Análise de dados | ML 
 
 📩 ailafelixa@gmail.com
 
